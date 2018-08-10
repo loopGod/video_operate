@@ -10,3 +10,5 @@ windows下的，python3.5。
 
 2、直接运行mycut即可，或者用pyinstaller将mycut转成exe文件用
 
+
+                  ————————LoopGod刘刚
